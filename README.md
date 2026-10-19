@@ -37,6 +37,7 @@ Achieving optimal efficiency requires precise balance across continuous process 
   * `matplotlib` & `seaborn` for advanced statistical visualization and correlation mapping.
 * **Environment:** Deepnote (Collaborative Cloud Notebooks for reproducible data science workflows).
 * **Dataset:** [Quality Prediction in a Mining Process (Kaggle)](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process).
+* **File:** It is included in this GitHub repository in the releases section. 
 
 ---
 
