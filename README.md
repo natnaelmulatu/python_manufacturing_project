@@ -64,3 +64,15 @@ Identified transient spikes in reagent feed and pH shifts that correlate with de
 
 * **Dynamic Reagent Control:** High variance in Starch Flow suggests manual adjustments are lagging. Implementing automated closed-loop control based on real-time % Silica feedback can stabilize impurity rates.
 * **Shift Handover Protocols:** Time-series shift analysis highlighted recurring instability during shift transitions on June 1, pointing toward an opportunity to standardize chemical conditioning protocols.
+
+---
+
+## 📂 Repository Structure
+
+```text
+
+📦 python_manufacturing_project
+ ┣ 📜 Mining_Process_Data_Dictionary.pdf        # Documentation explaining the columns of the main industrial datatset
+ ┣ 📜 README.md                                 # Project overview, objectives, and instructions
+ ┗ 📦 [Releases Section on GitHub]              # Hosts files too large for standard git tracking
+    ┗ 📜 MiningProcess_Flotation_Plant_Database.csv  # Main raw industrial dataset (available under Releases)
